@@ -1,6 +1,8 @@
 🦷 OdontoGest
 
 OdontoGest es una aplicación web desarrollada como proyecto final de Arquitectura Cloud (AWS Women in Cloude BA), diseñada para simplificar la gestión diaria de un consultorio odontológico mediante una solución simple, confiable y preparada para crecer.
+<img width="1237" height="912" alt="image" src="https://github.com/user-attachments/assets/b630c13d-227b-4bea-8869-9f8b56d18b59" />
+
 ---
  ✨ Funcionalidades
 - 🏠 Landing Page institucional
@@ -17,6 +19,8 @@ OdontoGest es una aplicación web desarrollada como proyecto final de Arquitectu
 - CSS3
 - Bootstrap
 - Docker
+  <img width="467" height="590" alt="image" src="https://github.com/user-attachments/assets/eca92504-2364-4f39-b381-9fecf2a5af89" />
+
 ---
 ☁️ Arquitectura AWS
 La solución fue diseñada utilizando los siguientes servicios:
@@ -66,6 +70,20 @@ Próximas funcionalidades previstas:
 - ☁️ Despliegue en Amazon EC2
 - 🔄 CI/CD con GitHub Actions
 ---
+
+Estado del proyecto
+
+✅ MVP funcional
+✅ Dockerizado
+✅ Arquitectura AWS diseñada
+🚧 Gestión de pacientes
+🚧 Historia clínica
+🚧 Pagos
+🚧 Despliegue en AWS
+<img width="1917" height="632" alt="image" src="https://github.com/user-attachments/assets/5cbd248b-8368-4da5-bd63-0a70e67897b4" />
+
+---
+
 💜 Sobre el proyecto
 
 OdontoGest nació a partir de una necesidad real: ayudar a digitalizar la gestión de un consultorio odontológico que actualmente trabaja con agendas físicas y procesos manuales.
