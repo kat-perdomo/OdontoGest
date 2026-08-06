@@ -19,6 +19,8 @@ OdontoGest es una aplicación web desarrollada como proyecto final de Arquitectu
 - CSS3
 - Bootstrap
 - Docker
+
+  
   <img width="467" height="590" alt="image" src="https://github.com/user-attachments/assets/eca92504-2364-4f39-b381-9fecf2a5af89" />
 
 ---
