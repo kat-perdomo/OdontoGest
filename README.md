@@ -75,13 +75,15 @@ Próximas funcionalidades previstas:
 
 Estado del proyecto
 
-✅ MVP funcional
-✅ Dockerizado
-✅ Arquitectura AWS diseñada
-🚧 Gestión de pacientes
-🚧 Historia clínica
-🚧 Pagos
-🚧 Despliegue en AWS
+- ✅ MVP funcional
+- ✅ Dockerizado
+- ✅ Arquitectura AWS diseñada
+- 🚧 Gestión de pacientes
+- 🚧 Historia clínica
+- 🚧 Pagos
+- 🚧 Despliegue en AWS
+
+
 <img width="1917" height="632" alt="image" src="https://github.com/user-attachments/assets/5cbd248b-8368-4da5-bd63-0a70e67897b4" />
 
 ---
